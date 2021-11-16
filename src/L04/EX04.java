@@ -26,6 +26,5 @@ public class EX04 {
         } else {
             System.out.println("Undefined domain");
         }
-
     }
 }
